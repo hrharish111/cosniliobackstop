@@ -65,7 +65,7 @@
 	3. Pull the front end code outside the project :
 		- [web](https://github.consilio.com/bmerrell/web.git)
 		
-	### steps to run the code
+	### Steps to run the code
 	- first you need to create the user
 		- ``` python set_user.py username ```
 			- then it asks for password and confirm the password
