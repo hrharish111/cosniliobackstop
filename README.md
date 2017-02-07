@@ -45,7 +45,7 @@
 		-	``` $source environmentname/bin/activate ```
 2. Installing the packages
 	- Installing packages using requirement.txt is suggested
-		- ```pip install -R requirement.txt ```
+		- ```pip install -r requirement.txt ```
 		- or
 		- Install each packages indivisually :
 			- ``` pip install Beaker==1.8.1 ```
